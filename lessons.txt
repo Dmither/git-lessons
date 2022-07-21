@@ -8,11 +8,11 @@ git config - налаштування
 git init - створення репозиторію (папки .git)
 ls - список файлів директорії
 git status - статус файлів з погляду гіт
+
 git add [file] - додати в індекс (untracked -> track)
 git commit - коміт
 
 chmod +x/-x [file] - зробити [file] виконуваним/невиконуваним
-git show (id) --pretty=fuller - переглянути коміт
 
 git branch [name] - створення нової гілки
 	
