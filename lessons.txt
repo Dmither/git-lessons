@@ -9,8 +9,8 @@ git init - створення репозиторію (папки .git)
 ls - список файлів директорії
 git status - статус файлів з погляду гіт
 git add [file] - додати в індекс (untracked -> track)
-
 git commit - коміт
+
 git branch [name] - створення нової гілки
 	
 git checkout [name] - змінити HEAD (фокус) на іншу гілку чи коміт
