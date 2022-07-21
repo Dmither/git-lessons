@@ -11,6 +11,8 @@ git status - статус файлів з погляду гіт
 git add [file] - додати в індекс (untracked -> track)
 git commit - коміт
 
+chmod +x/-x [file] - зробити [file] виконуваним/невиконуваним
+
 git branch [name] - створення нової гілки
 	
 git checkout [name] - змінити HEAD (фокус) на іншу гілку чи коміт
