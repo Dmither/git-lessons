@@ -54,7 +54,6 @@ git reflog - виведе лог стану HEAD
 	[name]~[X] перемістить на X рівнів вище [name]
 	git branch -f main HEAD~3 перемістить насильно main на HEAD~3
 
-
 git merge [name] - злити гілку [name] в поточну
 	git branch 
 	-f [name] ORIG_HEAD - повернення [name] після merge
@@ -64,3 +63,5 @@ git rebase [name] - перемістити коміти в позицію під
 
 git reset HEAD~ - відміна змін поточної гілки (для локальних копій)
 git revert HEAD - створення коміту зі змінами, протилежними попереднім
+
+
